@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://spacecasuals.ro/sitemap.xml
+LLM: https://spacecasuals.ro/llms.txt

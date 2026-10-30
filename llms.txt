@@ -1,0 +1,27 @@
+# Space Casuals
+
+> Studio de arhitectură, design interior și retail din București, România, activ din 2003 (fost Zebra 3). Proiectăm spații cu caracter — de la arhitectură și amenajări interioare, până la design de retail.
+
+Noul site Space Casuals este în construcție (lansare în curând). Pagina curentă este una temporară, de tip „coming soon”.
+
+## Despre
+- Nume: Space Casuals
+- Activ din: 2003 (fost Zebra 3)
+- Locație: București, România
+- Domenii: arhitectură, design interior, design de retail, consultanță pentru spații
+- Status: site în construcție, lansare în curând
+
+## Servicii
+- Arhitectură — proiectare de clădiri și spații construite
+- Design interior — amenajări interioare rezidențiale și comerciale
+- Design de retail — spații comerciale, showroom-uri și magazine
+- Consultanță pentru spații
+
+## Contact
+- Email: gogolangeorgiana@gmail.com
+- Instagram: https://www.instagram.com/spacecasuals/
+- Site: https://spacecasuals.ro/
+
+## Note pentru crawlere
+- Aceasta este o pagină temporară „coming soon”. Conținutul complet (proiecte, colecții, filosofie) va fi publicat la lansarea noului site.
+- Limba paginii: română (ro).
